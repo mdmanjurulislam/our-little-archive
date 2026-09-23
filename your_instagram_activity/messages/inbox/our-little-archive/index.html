@@ -339,10 +339,7 @@
       if (val === HARDCODED_PASS) {
         error.textContent = '';
         sessionStorage.setItem('archive_unlocked', 'true');
-        const target = window.location.pathname.includes('/your_instagram_activity/') 
-          ? 'message_1.html' 
-          : 'your_instagram_activity/messages/inbox/our-little-archive/message_1.html';
-        window.location.href = target;
+        window.location.href = 'message_1.html';
       } else {
         error.textContent = 'Incorrect secret password... 💔';
         if (card) {

@@ -6,11 +6,31 @@
       "destination": "/your_instagram_activity/messages/inbox/our-little-archive/message_1.html"
     },
     {
+      "source": "/index",
+      "destination": "/your_instagram_activity/messages/inbox/our-little-archive/index.html"
+    },
+    {
       "source": "/index.html",
       "destination": "/your_instagram_activity/messages/inbox/our-little-archive/index.html"
     },
     {
+      "source": "/message_1",
+      "destination": "/your_instagram_activity/messages/inbox/our-little-archive/message_1.html"
+    },
+    {
       "source": "/message_1.html",
+      "destination": "/your_instagram_activity/messages/inbox/our-little-archive/message_1.html"
+    },
+    {
+      "source": "/your_instagram_activity/messages/inbox/message_1",
+      "destination": "/your_instagram_activity/messages/inbox/our-little-archive/message_1.html"
+    },
+    {
+      "source": "/your_instagram_activity/messages/inbox/message_1.html",
+      "destination": "/your_instagram_activity/messages/inbox/our-little-archive/message_1.html"
+    },
+    {
+      "source": "/your_instagram_activity/messages/inbox/our-little-archive/message_1",
       "destination": "/your_instagram_activity/messages/inbox/our-little-archive/message_1.html"
     }
   ]
